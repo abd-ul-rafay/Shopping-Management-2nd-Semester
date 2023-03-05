@@ -1,0 +1,14 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'c:/Users/abdul/OneDrive/Documents/ShoppingManagmentSystem'
+ 
+g++ -std=c++11 -Wall -o obj/admin.o -c src/admin.cpp
+g++ -std=c++11 -Wall -o obj/bill.o -c src/bill.cpp
+ 
+g++ -std=c++11 -Wall -o obj/costumer.o -c src/costumer.cpp
+g++ -std=c++11 -Wall -o obj/loginPortal.o -c src/loginPortal.cpp
+ 
+g++ -std=c++11 -Wall -o obj/main.o -c src/main.cpp
+g++ -std=c++11 -Wall -o obj/product.o -c src/product.cpp
+g++ -std=c++11 -Wall -o result obj/admin.o obj/bill.o obj/costumer.o obj/loginPortal.o obj/main.o obj/product.o 
+make: Leaving directory 'c:/Users/abdul/OneDrive/Documents/ShoppingManagmentSystem'
+ 

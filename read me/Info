@@ -1,0 +1,19 @@
+--------------------------------------------------------------------
+--------------------------------------------------------------------
+Shopping Managment System
+--------------------------------------------------------------------
+Computer Console Program C++ Language
+--------------------------------------------------------------------
+Using Object Oreinted Approoch
+--------------------------------------------------------------------
+In this system, there is only one Admin that can store Products,
+Manage Products and Records. On the other hand, there are costumers
+that can buy Products. This record will be saved in hard disk.
+--------------------------------------------------------------------
+IDE: MicroSoft Visual Studio Code as Makefile project
+--------------------------------------------------------------------
+By Abdul Rafay Ilyas & Abdul Rehman - BS Software Engineering
+--------------------------------------------------------------------
+University of Managment and Technology, Sialkot Pakistan
+--------------------------------------------------------------------
+--------------------------------------------------------------------
